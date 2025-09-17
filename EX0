@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+#include <windows.h>
+using namespace std;
+
+int main(){
+	/*
+	while(true){
+		Sleep(500);
+		printf("%d\n",printf("IU\n"));
+	
+	}
+	*/
+	printf("*****\n*****\n*****\n*****\n*****\n");
+	
+	return 0;
+} 
